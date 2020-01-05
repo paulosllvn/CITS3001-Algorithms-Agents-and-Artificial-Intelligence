@@ -1,2 +1,0 @@
-# LoveLetter
-CITS3001
